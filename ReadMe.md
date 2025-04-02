@@ -1,8 +1,8 @@
 # **🚀 Shivam Kumar | Full Stack Developer & Data Science Enthusiast**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/SHIVAM9771/SHIVAM9771/main/banner_github.png" alt="GitHub Banner" width="100%"/>
-</div>  
+</div>   -->
 
 ## **👋 About Me**  
 
