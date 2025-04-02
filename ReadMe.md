@@ -1,7 +1,7 @@
 # **🚀 Shivam Kumar | Full Stack Developer & Data Science Enthusiast**
 
 <!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/SHIVAM9771/SHIVAM9771/main/banner_github.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DeepStacker/DeepStacker/main/banner_github.png" alt="GitHub Banner" width="100%"/>
 </div>   -->
 
 ## **👋 About Me**  
@@ -54,25 +54,25 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SHIVAM9771&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SHIVAM9771&theme=buefy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SHIVAM9771&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=buefy">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=buefy">
   </picture>
 </div>  
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SHIVAM9771&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SHIVAM9771&theme=buefy">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SHIVAM9771&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DeepStacker&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DeepStacker&theme=buefy">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=DeepStacker&theme=buefy">
   </picture>
 </div>  
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVAM9771&show_icons=true&locale=en&layout=compact&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVAM9771&show_icons=true&locale=en&layout=compact&theme=buefy">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVAM9771&show_icons=true&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact&theme=buefy">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact">
   </picture>
 </div>  
 
@@ -82,9 +82,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SHIVAM9771&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SHIVAM9771&theme=buefy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SHIVAM9771&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=buefy">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=buefy">
   </picture>
 </div>  
 
@@ -94,9 +94,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIVAM9771/SHIVAM9771/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIVAM9771/SHIVAM9771/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SHIVAM9771/SHIVAM9771/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake.svg">
   </picture>
 </div>  
 
@@ -105,7 +105,7 @@
 ## **👀 Profile Views**  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SHIVAM9771&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=DeepStacker&icon=0&color=0" alt="Profile Views"/>
 </p>
 
 --- -->
