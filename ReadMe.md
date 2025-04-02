@@ -90,7 +90,7 @@
 
 ---
 
-## **🐍 GitHub Contribution Snake**  
+<!-- ## **🐍 GitHub Contribution Snake**  
 
 <div align="center">
   <picture>
@@ -100,14 +100,14 @@
   </picture>
 </div>  
 
----
-
+--- -->
+<!-- 
 ## **👀 Profile Views**  
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SHIVAM9771&icon=0&color=0" alt="Profile Views"/>
 </p>
 
----
+--- -->
 
 ### **🎯 Thank You for Visiting! 🚀**  
