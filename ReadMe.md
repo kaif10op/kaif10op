@@ -1,24 +1,25 @@
-# **🚀 Shivam Kumar | Full Stack Developer & Data Science Enthusiast**
+# **🚀 kaif | Full Stack Developer & Data Science Enthusiast**
 
 <!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/DeepStacker/DeepStacker/main/banner_github.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kaif10op/kaif10op/main/banner_github.png" alt="GitHub Banner" width="100%"/>
 </div>   -->
 
-## **👋 About Me**  
+## **👋 About Me**
 
 🌟 Passionate about **Full Stack Web Development** and **Data Science**  
 🚀 Always exploring new technologies & contributing to open-source projects  
-💡 Love to blend creativity with problem-solving using **AI/ML & Web Development**  
+💡 Love to blend creativity with problem-solving using **AI/ML & Web Development**
 
-### **💡 What I Do:**  
-- 🔭 Building **innovative web applications** & working on **data-driven projects**  
-- 🌱 Upskilling in **Full Stack Development** & **Data Science**  
-- 🤝 Open to **collaborations** in **AI, ML, and open-source projects**  
-- 💬 Ask me about **React, Redux, TailwindCSS, Flask, REST APIs, and Data Analysis**  
+### **💡 What I Do:**
+
+- 🔭 Building **innovative web applications** & working on **data-driven projects**
+- 🌱 Upskilling in **Full Stack Development** & **Data Science**
+- 🤝 Open to **collaborations** in **AI, ML, and open-source projects**
+- 💬 Ask me about **React, Redux, TailwindCSS, Flask, REST APIs, and Data Analysis**
 
 ---
 
-## **🌍 Connect With Me**  
+## **🌍 Connect With Me**
 
 <p align="center">
   <a href="https://linkedin.com/in/shivam-kumar-a63b0927b/">
@@ -31,83 +32,86 @@
 
 ---
 
-## **💻 Tech Stack**  
+## **💻 Tech Stack**
 
-### **Languages & Frameworks**  
+### **Languages & Frameworks**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,html,css,react,nextjs,redux,tailwind,flask,django,nodejs,express,fastapi" />
 </p>
 
-### **Databases & Cloud**  
+### **Databases & Cloud**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel,netlify,render" />
 </p>
 
-### **Tools & DevOps**  
+### **Tools & DevOps**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,canva,postman,vscode" />
 </p>
 
 ---
 
-## **📊 GitHub Stats**  
+## **📊 GitHub Stats**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=buefy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeepStacker&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=buefy">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=buefy">
   </picture>
-</div>  
+</div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DeepStacker&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DeepStacker&theme=buefy">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=DeepStacker&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kaif10op&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kaif10op&theme=buefy">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=kaif10op&theme=buefy">
   </picture>
-</div>  
+</div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact&theme=buefy">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepStacker&show_icons=true&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact&theme=buefy">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact">
   </picture>
-</div>  
+</div>
 
 ---
 
-## **🏆 GitHub Trophies**  
+## **🏆 GitHub Trophies**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=buefy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DeepStacker&theme=buefy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=buefy">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=buefy">
   </picture>
-</div>  
+</div>
 
 ---
 
-<!-- ## **🐍 GitHub Contribution Snake**  
+<!-- ## **🐍 GitHub Contribution Snake**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/DeepStacker/DeepStacker/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake.svg">
   </picture>
-</div>  
+</div>
 
 --- -->
-<!-- 
-## **👀 Profile Views**  
+<!--
+## **👀 Profile Views**
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DeepStacker&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=kaif10op&icon=0&color=0" alt="Profile Views"/>
 </p>
 
 --- -->
 
-### **🎯 Thank You for Visiting! 🚀**  
+### **🎯 Thank You for Visiting! 🚀**
