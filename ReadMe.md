@@ -1,117 +1,90 @@
-# **🚀 kaif | Full Stack Developer & Data Science Enthusiast**
+# 🚀 Full Stack Developer | UI/UX Enthusiast | Creative Technologist
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/kaif10op/kaif10op/main/banner_github.png" alt="GitHub Banner" width="100%"/>
-</div>   -->
-
-## **👋 About Me**
-
-🌟 Passionate about **Full Stack Web Development** and **Data Science**  
-🚀 Always exploring new technologies & contributing to open-source projects  
-💡 Love to blend creativity with problem-solving using **AI/ML & Web Development**
-
-### **💡 What I Do:**
-
-- 🔭 Building **innovative web applications** & working on **data-driven projects**
-- 🌱 Upskilling in **Full Stack Development** & **Data Science**
-- 🤝 Open to **collaborations** in **AI, ML, and open-source projects**
-- 💬 Ask me about **React, Redux, TailwindCSS, Flask, REST APIs, and Data Analysis**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kaif+👋;BCA+Student+%7C+Full+Stack+Learner;UI/UX+Design+%7C+Gaming+%7C+Graphic+Design;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## **🌍 Connect With Me**
+## 👨‍💻 About Me
+
+> _“Code + Creativity = Innovation”_ ✨
+
+- 🎓 **BCA Student** with a strong foundation in **programming & computer science fundamentals**
+- 💻 Skilled in: **HTML, CSS, JavaScript, ReactJS, Python, Java, C, DBMS, SQL, Computer Networks**
+- 🎨 Passionate about **UI/UX, gaming, and graphic design**
+- 🚀 Exploring **modern frameworks & AI/ML** to build smarter apps
+- 🤝 Open for collaborations in **Web Dev | Design | Creative Tech Projects**
+
+---
+
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivam-kumar-a63b0927b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,git,github,mysql,sqlite,figma,photoshop,illustrator,canva,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif10op&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=kaif10op&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif10op&layout=compact&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github"/>  
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-orange?style=for-the-badge&logo=adobeillustrator"/>  
+  <img src="https://img.shields.io/badge/Gamer-🎮-purple?style=for-the-badge"/>  
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kaif10op?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaif10op&repo=Your-Repo-Name&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/kaif10op?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaif10op&repo=Another-Repo&theme=radical&hide_border=true" /></a>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nauman-kaif-6a46b433b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:svm.singh.01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:mkaif6549@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## **💻 Tech Stack**
-
-### **Languages & Frameworks**
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,html,css,react,nextjs,redux,tailwind,flask,django,nodejs,express,fastapi" />
-</p>
-
-### **Databases & Cloud**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel,netlify,render" />
-</p>
-
-### **Tools & DevOps**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,postman,vscode" />
+  <img src="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-## **📊 GitHub Stats**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=buefy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaif10op&theme=buefy">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kaif10op&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kaif10op&theme=buefy">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=kaif10op&theme=buefy">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact&theme=buefy">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif10op&show_icons=true&locale=en&layout=compact">
-  </picture>
-</div>
-
----
-
-## **🏆 GitHub Trophies**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=buefy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=kaif10op&theme=buefy">
-  </picture>
-</div>
-
----
-
-<!-- ## **🐍 GitHub Contribution Snake**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/kaif10op/kaif10op/output/github-snake.svg">
-  </picture>
-</div>
-
---- -->
-<!--
-## **👀 Profile Views**
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kaif10op&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kaif10op&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
---- -->
-
-### **🎯 Thank You for Visiting! 🚀**
+<h3 align="center">✨ Thanks for visiting! Let’s build something amazing together ✨</h3>
