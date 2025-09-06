@@ -1,8 +1,6 @@
 # 🚀 Full Stack Developer | UI/UX Enthusiast | Creative Technologist
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kaif+👋;BCA+Student+%7C+Full+Stack+Learner;UI/UX+Design+%7C+Gaming+%7C+Graphic+Design;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
